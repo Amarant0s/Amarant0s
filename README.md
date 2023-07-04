@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amarant0s
-- 👀 I’m interested in ... Automating any repetitive task and not only.
+- 👀 I’m interested in ... Automating repetitive tasks.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... Projects related to microservices & Script automation
 - 📫 How to reach me ... Linkedin: https://www.linkedin.com/in/styllianos/ Telegram: @amarant0s, Twitter: @amarant0s
